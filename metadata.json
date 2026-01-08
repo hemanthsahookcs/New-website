@@ -1,0 +1,7 @@
+{
+  "name": "SecureVote - Advanced Online Voting System",
+  "description": "A comprehensive, secure, and modern online voting platform featuring real-time analytics, voter management, and administrative control. Built with React, Tailwind, and integrated documentation for academic excellence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
